@@ -1,0 +1,32 @@
+.header2 {
+    width: 1920px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header2 .container {
+    width: 1440px;
+    height: 48px;
+    border:  1px solid #f0f0f0;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.header2 .container ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.header2 .container a {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 16px;
+    color: #5666BE;
+    text-decoration: none;
+}
+
+

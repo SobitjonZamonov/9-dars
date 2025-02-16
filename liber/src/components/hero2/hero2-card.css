@@ -1,0 +1,47 @@
+.hero2 {
+    width: 1920px;
+    height: 110px;
+    margin-top: 56px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hero2 .container {
+    width: 1440px;
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero2_win {
+    width: 322px;
+    height: 110px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hero2__win {
+    margin-left: 19px;
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+
+.hero2__win h3 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 120%;
+    color: #11142d;
+    margin: 0;
+}
+
+.hero2__win p {
+    width: 212px;
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 11px;
+    color: #aaa;
+}

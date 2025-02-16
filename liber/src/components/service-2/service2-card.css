@@ -1,0 +1,23 @@
+.service2 {
+    width: 1920px;
+    height: 522px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 64px;
+}
+
+
+.service2 .container {
+    width: 1440px;
+    height: 522px;
+}
+
+.service2 .container h2 {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 125%;
+    color: #262626;
+    margin-top: 0;
+}
